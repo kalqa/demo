@@ -1,4 +1,4 @@
-package com.example.demo.emailsender.infrastructure.db;
+package com.example.demo.emailsender;
 
 import com.example.demo.emailsender.EmailRepository;
 
