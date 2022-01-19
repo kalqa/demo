@@ -8,5 +8,4 @@ class EmailConfiguration {
         return new EmailFacade(emailRetriever, emailSender);
     }
 
-
 }
